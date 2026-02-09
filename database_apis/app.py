@@ -362,6 +362,6 @@ if __name__ == '__main__':
     print("E-COMMERCE CLICKSTREAM API")
     print("="*50)
     print("Starting Flask server...")
-    print("API Documentation: http://localhost:5000/")
+    print("API Documentation: http://localhost:5001/")
     print("="*50)
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, host='0.0.0.0', port=5001)
